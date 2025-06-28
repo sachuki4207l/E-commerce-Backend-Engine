@@ -16,6 +16,8 @@ A conceptual RESTful API backend built with Python (Flask/Django) for an e-comme
 - bcrypt / Django's hashing (Authentication)
 ---
 🚀 Getting Started
+
+```bash
 - Clone the repository.
 - Create and activate a virtual environment (as above).
 - Install dependencies (choose based on Flask or Django):
